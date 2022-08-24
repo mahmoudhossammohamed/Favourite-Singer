@@ -1,0 +1,17 @@
+*{
+    background-color: black;
+    color: violet;
+}
+table, th, td {
+  border: 1px solid violet;
+  width: 40rem;
+  text-align: center;
+  margin-top: 3rem;
+  margin-left: 20rem;
+  border-radius: 1rem;
+  padding: 0.5rem;
+}
+th{
+    font-weight: bold;
+    font-size: 22px;
+}
